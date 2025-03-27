@@ -1,3 +1,1 @@
-# actions
-
-foo
+edited from PR #993
